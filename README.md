@@ -55,7 +55,7 @@ Mande-as para: georger.silva@gmail.com
 ### [Links importantes](wiki/links-importantes.md)
 ### [Instrutor](wiki/instrutor.md)
 ### [Cronograma](wiki/cronograma.md)
-### [Como usar o git?](wiki/como-usar.md)
+### [Como usar o git?](wiki/como-usar-git.md)
 ### [Ementa](wiki/ementa.md);
 ### [Aula 01](wiki/aula01.md);
 ### [Aula 02](wiki/aula02.md);
