@@ -1,0 +1,1 @@
+SELECT 'Olá Mundo', ST_GeomFromText('POINT (0 0)');

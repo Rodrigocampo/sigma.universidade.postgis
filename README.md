@@ -57,7 +57,7 @@ Mande-as para: georger.silva@gmail.com
 ### [Cronograma](wiki/cronograma.md)
 ### [Como usar o git?](wiki/como-usar-git.md)
 ### [Ementa](wiki/ementa.md);
-### [Aula 01](wiki/aula01.md);
-### [Aula 02](wiki/aula02.md);
-### [Aula 03](wiki/aula03.md);
-### [Aula 04](wiki/aula04.md);
+### [Aula 01 - Instalação](wiki/aula01.md);
+### [Aula 02 - Baby Steps](wiki/aula02.md);
+### [Aula 03 - Funções Geoespaciais](wiki/aula03.md);
+### [Aula 04 - Experiência de Mundo Real](wiki/aula04.md);
