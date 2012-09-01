@@ -51,9 +51,12 @@ Mande-as para: georger.silva@gmail.com
 Índice
 -------------
 
-#. Pré-requisitos;
-#. Links importantes;
-#. Aula 01;
-#. Aula 02;
-#. Aula 03;
-#. Aula 04;
+### [Pré-requisitos](wiki/pre-requisitos.md)
+### [Links importantes](wiki/links-importantes.md)
+### [Instrutor](wiki/instrutor.md)
+### [Cronograma](wiki/cronograma.md)
+### [Ementa](wiki/ementa.md);
+### [Aula 01](wiki/aula01.md);
+### [Aula 02](wiki/aula02.md);
+### [Aula 03](wiki/aula03.md);
+### [Aula 04](wiki/aula04.md);
