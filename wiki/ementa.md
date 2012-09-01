@@ -149,3 +149,8 @@ da extensão e testaremos com alguns dados de entrada.
 	* ST_OffsetCurve;
 	* ST_Split;
 	* ST_Union;
+	
+
+-------------------------------------------------
+Aula 04 - Funções Geoespaciais
+-------------------------------------------------
